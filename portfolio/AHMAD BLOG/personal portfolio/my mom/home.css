@@ -1,0 +1,17 @@
+div{
+text-align: center;
+text-decoration: none;
+padding: 20px;
+}
+h1{
+text-align: center;
+text-decoration: underline;
+color: blue;
+}
+p{
+text-align: center;
+color: blue;
+background-color: red;
+font-style: italic;
+font-size: 30px;
+}

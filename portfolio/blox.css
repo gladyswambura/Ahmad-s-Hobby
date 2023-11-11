@@ -1,0 +1,30 @@
+.lightfruit{
+    color: blue;
+    background-color: rgb(220, 140, 20);
+}
+#sasa{
+color: aqua;
+font-style: italic;
+font-family: 'Courier New', Courier, monospace;
+text-decoration: wavy;
+font-size: 30px;
+border: 20px solid gold ;
+text-shadow: 50px 50px 50px white;
+font-weight: 900;
+}
+.bru{
+text-decoration: underline;
+}
+.areyou{
+font-size: 30px;
+text-decoration: underline;
+color: brown;
+font-weight: 900;
+font-style: italic;
+}
+.nono{
+margin: 20px;
+}
+
+
+

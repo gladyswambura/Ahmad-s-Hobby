@@ -1,0 +1,20 @@
+p{
+color: rgb(255, 255, 255);
+background-color: aqua;
+font-style: italic;
+font-size: 40px;
+}
+.W{
+text-align: center;
+width: 400;
+height: 400;
+}
+nav{
+    text-align: center;
+    background-color: cyan;
+    font-size: 30px;
+    }
+    nav a{
+    text-decoration: none;
+    padding: 20px;
+    }

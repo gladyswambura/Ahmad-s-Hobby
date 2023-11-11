@@ -1,0 +1,84 @@
+nav{
+background-color: beige;
+text-align: center;
+padding: 10px;
+}
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+nav a:hover{
+    color: gold;
+}
+.hero{
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 10px;
+}
+.hero-text{
+    margin-right: 20px;
+}
+.hero-image img{
+width: 400px;
+height: 400px;
+margin-left: 20px;
+}
+.about{
+background-color: rgb(0, 255, 255);
+text-align: center;
+padding: 20px;
+font-size: 30px;
+}
+.bedwars_keed{
+font-size:50px;
+font-weight:bolder ;
+border: 2px groove gold;
+}
+#get_better{
+text-align: center;
+}
+.skill1{
+margin: 20px;
+text-align: left;
+}
+.skillprogress{
+background-color: dimgray;
+height: 15px;
+border-radius: 5px;
+}
+.skillbar{
+height: 100%;
+background-color: blue;
+border-radius: 5px;
+width: 0;
+}
+#skills{
+padding: 20px;
+text-align: center;
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+#contactme{
+margin: 0 auto;
+padding: 20px;
+
+}
+#contactform{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.TRYHARD_KEED{
+text-align: center;
+}

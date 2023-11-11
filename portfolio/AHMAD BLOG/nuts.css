@@ -1,0 +1,18 @@
+.nc{
+  color: goldenrod;
+  font-size: 30px;  
+}
+#cde{
+font-size: 50px;
+color: goldenrod;
+border: 20px groove gold;
+font-weight: 900;
+text-decoration: wavy;
+}
+#vsm{
+margin: 20px;
+color: blue;
+}
+.fg{
+color: red;
+}

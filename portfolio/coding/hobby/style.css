@@ -1,0 +1,28 @@
+nav{
+text-align: center;
+background-color: rgb(235, 0, 0);
+font-size: 30px;
+}
+nav a{
+text-decoration: none;
+padding: 20px;
+}
+p{
+font-size: 30px;
+background-color: rgb(55, 0, 255);
+color: rgb(252, 252, 252);
+font-style: italic;
+text-align: center;
+}
+div{
+text-align: center;
+width: 400;
+height: 400;
+}
+h1{
+color: darkblue;
+text-align: center;
+}
+div img{
+padding: 30px;
+}
